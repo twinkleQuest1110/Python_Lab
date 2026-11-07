@@ -1,6 +1,4 @@
-
-# Student Result Data Validator
-
+## Student Result Data Validator
 # attendance requirement
 MIN_ATTENDANCE = 75
 
