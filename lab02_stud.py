@@ -55,7 +55,7 @@ if valid_input:
     else:
         eligibility = "Not Eligible"
 
-    print("\n=======---> STUDENT RESULT ==========")
+    print("\n=======---> STUDENT RESULT =========")
     print("Student Name:  ", name)
     print("Roll Number:   ", roll_number)
     print("Total Marks:", f"{total:.2f} / 500")
