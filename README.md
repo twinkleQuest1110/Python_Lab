@@ -1,11 +1,11 @@
 
-<h1 align="center">Python Lab Assignments</h1>
+<h1 align="center">Python Lab Assignment</h1>
 
 A collection of 20 beginner-friendly Python lab assignments based on practical, real-life problems.
 
 These programs help practise Python fundamentals such as variables, data types, operators, conditions, loops, functions, and basic input validation.
 
-## 📚 About This Repository
+## 📚 About This Repository.
 
 This repository contains solutions to 20 Python lab questions, including calculators, billing systems, and simple utility programs.
 
